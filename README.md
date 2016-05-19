@@ -1,0 +1,2 @@
+# mailinglists
+mailchimp mailinglist templates
