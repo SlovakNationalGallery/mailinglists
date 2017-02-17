@@ -1,9 +1,9 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-       <mj-text padding="15px 15px 15px 0px" />
-       <mj-image padding="15px 15px 15px 0px" />
-       <mj-section padding="0 0 0 15px" />
+       <mj-text padding="20px 20px 0 0" />
+       <mj-image padding="20px 20px 0 0" />
+       <mj-section padding="0 0 20px 20px" />
     </mj-attributes>
     <mj-style>
       .blue {
@@ -26,20 +26,20 @@
   <mj-body>
     <mj-container>
       <!-- Header -->
-      <mj-section border="gold 1px solid">
-        <mj-column border="gold 1px solid" width="50%">
+      <mj-section>
+        <mj-column width="50%">
           <mj-image align="left" src="./images/logo-khb.png"></mj-image>
         </mj-column>
         <mj-group width="50%">
-          <mj-column border="gold 1px solid">
-            <mj-text align="left" font-size="16px" text-transform="uppercase">
+          <mj-column>
+            <mj-text align="left" font-size="18px" line-height="21px">
               <a href="#" class="black no-underline">VÝSTAVY</a>   <br>
               <a href="#" class="black no-underline">WORKSHOPY</a> <br>
               <a href="#" class="black no-underline">PREDNÁŠKY</a> <br>
               <a href="#" class="black no-underline">DISKUSIE</a>
             </mj-text>
           </mj-column>
-          <mj-column border="gold 1px solid">
+          <mj-column>
             <mj-image padding-top="25%" src="./images/img-vstup-volny.png"></mj-image>
           </mj-column>
         </mj-group>
@@ -48,89 +48,103 @@
       <!-- Hero image -->
       <mj-hero
         mode="fixed-height"
-        height="250px"
-        background-width="600px"
-        background-height="250px"
+        height="210px"
+        width="560px"
         background-url="./images/img-hero.png"
-        background-color="#2a3448"
+        padding-left="20px"
+        padding-right="20px"
         >
       </mj-hero>
       
       <!-- Event 1 -->
-      <mj-section border="gold 1px solid">
-        <mj-column border="gold 1px solid" width="22%">
-          <mj-text font-weight="bold" font-size="30px">
+      <mj-section>
+        <mj-column width="22%">
+          <mj-text font-weight="bold" font-size="31px" padding-bottom="5px">
             16 / 2
           </mj-text>
-          <mj-text text-transform="uppercase" line-height="15px" font-size="11px">
-            ŠTVRTOK <br>
+          <mj-text font-size="13px" line-height="17px" padding-top="0">
+            ŠTVRTOK <br>
             18:00 – 20:00 <br>
             KUNSTHALLE LAB <br>
+            vernisáž
           </mj-text>
         </mj-column>
-        <mj-column border="gold 1px solid" width="78%">
-          <mj-text font-size="24px" text-transform="uppercase" line-height="24px">
+        <mj-column width="78%">
+          <mj-text font-size="24px" line-height="27px">
             VERNISÁŽ VÝSTAVY <br>
             INTO THE MU
           </mj-text>
-          <mj-text padding-top="0" line-height="18px">
+          <mj-text font-size="13px" line-height="17px">
             Nathan Baker (USA), Myriam El Haïk (FR/MA), Ciarán Walsh (IR), Dušan Zahoransky (CZ) <br>
             Kurátorka: Elisa Rusca (IT) <br>
-            how can one represent emptiness within the tree- dimensional exhibition’s space? And also: if in a room there is nothing I can see or touch, does that really mean that that space is empty? Viac info.
+            how can one represent emptiness within the tree- dimensional exhibition’s space? And also: if in a room there is nothing I can see or touch, does that really mean that that space is empty? <a href="#" class="black">Viac info</a>.
           </mj-text>
         </mj-column>
       </mj-section>
 
       <!-- divider -->
-      <mj-section border="gold 1px solid" text-align="right">
+      <mj-section text-align="right">
         <mj-column width="78%">
-          <mj-divider border-width="1px" padding="0 15px 0 0" border-style="solid" border-color="lightgrey" />
+          <mj-divider border-width="1px" padding="0 20px 0 0" border-style="solid" border-color="black" />
         </mj-column>
       </mj-section>
 
       <!-- Event 2 -->
-      <mj-section border="gold 1px solid">
-
-        <mj-column border="gold 1px solid" width="22%">
-          <mj-text font-weight="bold" font-size="30px">
+      <mj-section>
+        <mj-column width="22%">
+          <mj-text font-weight="bold" font-size="31px" padding-bottom="5px">
             11 / 1
           </mj-text>
-          <mj-text text-transform="uppercase" line-height="15px" font-size="11px">
+          <mj-text font-size="13px" line-height="17px" padding-top="0">
             STREDA <br>
             18:00  <br>
             KUNSTHALLE KLUB
           </mj-text>
         </mj-column>
-        
-        <mj-column border="gold 1px solid" width="28%">
+        <mj-column width="28%">
           <mj-image align="left" src="./images/thumb-1.png"></mj-image>
         </mj-column>
-
-        <mj-column border="gold 1px solid" width="50%">
-          <mj-text font-size="20px" text-transform="uppercase" line-height="20px">
+        <mj-column width="50%">
+          <mj-text font-size="20px" line-height="24px">
             UMENIE PRE VEREJNÝ PRIESTOR
           </mj-text>
-          <mj-text padding-top="0" line-height="18px">
-            Nathan Baker (USA), Myriam El Haïk (FR/MA), Ciarán Walsh (IR), Dušan Zahoransky (CZ)             <br>
-            Kurátorka: Elisa Rusca (IT) <br>
-            how can one represent emptiness within the tree- dimensional exhibition’s space? And also: if in a room there is nothing I can see or touch, does that really mean that that space is empty? Viac info.
+          <mj-text font-size="13px" line-height="17px">
+            Cyklus moderovaných diskusií v koncepcii Niny Šoškove tentokrát s vizuálnymi umelkyňami a fotografkami Andreou Kalinovou a Oljou Stefanovič. <a href="#" class="black">Viac info</a>.
           </mj-text>
-
-          
-
         </mj-column>
-
       </mj-section>
 
-      <!-- divider -->
-      <mj-section border="gold 1px solid" text-align="right">
-        <mj-column width="78%">
-          <mj-divider border-width="1px" padding="0 15px 0 0" border-style="solid" border-color="lightgrey" />
+      <!-- bold black divider -->
+      <mj-section text-align="right">
+        <mj-column width="100%">
+          <mj-divider border-width="2px" padding="20px 20px 0 0" border-style="solid" border-color="black" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Current Exhibition -->
+      <mj-section>
+        <mj-column width="22%">
+          <mj-text font-weight="bold" font-size="13px" line-height="17px" padding-bottom="5px">
+            PREBIEHAJÚCE VÝSTAVY
+          </mj-text>
+        </mj-column>
+        <mj-column width="28%">
+          <mj-image align="left" src="./images/thumb-1.png"></mj-image>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-size="20px" line-height="20px">
+            A JE TU ZAS? Slovenský štát v súčasnom umení
+          </mj-text>
+          <mj-text line-height="18px">
+            4. 11. 2016 - 26. 2. 2017 / 1. POSCH. KHB <br>
+            Kurátorky: Katarína Bajcurová,Petra Hanáková, Bohunka Koklesová, Nina Vrbanová <br>
+            Obdobím tzv. Slovenského štátu z pohľadu
+          </mj-text>
         </mj-column>
       </mj-section>
 
       <!-- Footer -->
-      <mj-section border="gold 1px solid" background-color="#000">
+      <mj-section border="20px solid white" background-color="#000">
         <mj-column width="30%">
           <mj-text color="#fff" font-size="11px">
             Kunsthalle Bratislava <br>
@@ -152,7 +166,6 @@
             <a class="no-underline white" href="http://www.kunsthallebratislava.sk/">www.kunsthallebratislava.sk</a>
           </mj-text>
         </mj-column>
-        
       </mj-section>
     </mj-container>
   </mj-body>
