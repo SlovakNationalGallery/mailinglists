@@ -28,7 +28,7 @@
       <!-- Header -->
       <mj-section border="gold 1px solid">
         <mj-column border="gold 1px solid" width="50%">
-          <mj-image align="left" src="/images/logo-khb.png"></mj-image>
+          <mj-image align="left" src="./images/logo-khb.png"></mj-image>
         </mj-column>
         <mj-group width="50%">
           <mj-column border="gold 1px solid">
@@ -40,7 +40,7 @@
             </mj-text>
           </mj-column>
           <mj-column border="gold 1px solid">
-            <mj-image padding-top="25%" src="/images/img-vstup-volny.png"></mj-image>
+            <mj-image padding-top="25%" src="./images/img-vstup-volny.png"></mj-image>
           </mj-column>
         </mj-group>
       </mj-section>
@@ -51,7 +51,7 @@
         height="250px"
         background-width="600px"
         background-height="250px"
-        background-url="/images/img-hero.png"
+        background-url="./images/img-hero.png"
         background-color="#2a3448"
         >
       </mj-hero>
@@ -103,7 +103,7 @@
         </mj-column>
         
         <mj-column border="gold 1px solid" width="28%">
-          <mj-image align="left" src="/images/thumb-1.png"></mj-image>
+          <mj-image align="left" src="./images/thumb-1.png"></mj-image>
         </mj-column>
 
         <mj-column border="gold 1px solid" width="50%">
