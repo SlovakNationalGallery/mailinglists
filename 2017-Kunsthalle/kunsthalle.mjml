@@ -28,7 +28,7 @@
       <!-- Header -->
       <mj-section>
         <mj-column width="50%">
-          <mj-image align="left" src="./images/logo-khb.png"></mj-image>
+          <mj-image align="left" src="./images/logo-khb-428x175.jpg"></mj-image>
         </mj-column>
         <mj-group width="50%">
           <mj-column>
@@ -40,7 +40,7 @@
             </mj-text>
           </mj-column>
           <mj-column>
-            <mj-image padding-top="25%" src="./images/img-vstup-volny.png"></mj-image>
+            <mj-image src="./images/img-vstup-278x240.jpg"></mj-image>
           </mj-column>
         </mj-group>
       </mj-section>
@@ -50,7 +50,7 @@
         mode="fixed-height"
         height="210px"
         width="560px"
-        background-url="./images/img-hero.png"
+        background-url="./images/img-hero-560x210.png"
         padding-left="20px"
         padding-right="20px"
         >
@@ -59,10 +59,10 @@
       <!-- Event 1 -->
       <mj-section>
         <mj-column width="22%">
-          <mj-text font-weight="bold" font-size="31px" padding-bottom="5px">
+          <mj-text font-weight="bold" font-size="31px">
             16 / 2
           </mj-text>
-          <mj-text padding-top="0">
+          <mj-text>
             ŠTVRTOK <br>
             18:00 – 20:00 <br>
             KUNSTHALLE LAB <br>
@@ -71,7 +71,7 @@
         </mj-column>
         <mj-column width="78%">
           <mj-text font-size="24px" line-height="27px">
-            VERNISÁŽ VÝSTAVY <br>
+            VERNISÁŽ VÝSTAVY <br>
             INTO THE MU
           </mj-text>
           <mj-text>
@@ -92,17 +92,17 @@
       <!-- Event 2 -->
       <mj-section>
         <mj-column width="22%">
-          <mj-text font-weight="bold" font-size="31px" padding-bottom="5px">
+          <mj-text font-weight="bold" font-size="31px">
             11 / 1
           </mj-text>
-          <mj-text padding-top="0">
+          <mj-text>
             STREDA <br>
             18:00  <br>
             KUNSTHALLE KLUB
           </mj-text>
         </mj-column>
         <mj-column width="28%">
-          <mj-image align="left" src="./images/thumb-1.png"></mj-image>
+          <mj-image align="left" src="./images/thumb-125x120_01.png"></mj-image>
         </mj-column>
         <mj-column width="50%">
           <mj-text font-size="20px" line-height="24px">
@@ -129,7 +129,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="28%">
-          <mj-image align="left" src="./images/thumb-1.png"></mj-image>
+          <mj-image align="left" src="./images/thumb-vystava-125x120.png"></mj-image>
         </mj-column>
         <mj-column width="50%">
           <mj-text font-size="20px" line-height="20px">
