@@ -24,7 +24,7 @@
     </mj-style>
   </mj-head>
   <mj-body>
-    <mj-container>
+    <mj-container background-color="white">
       <!-- Header -->
       <mj-section>
         <mj-column width="50%">
