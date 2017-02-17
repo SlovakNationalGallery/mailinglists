@@ -33,10 +33,10 @@
         <mj-group width="50%">
           <mj-column>
             <mj-text align="left" font-size="18px" line-height="21px">
-              <a href="#" class="black no-underline">VÝSTAVY</a>   <br>
-              <a href="#" class="black no-underline">WORKSHOPY</a> <br>
-              <a href="#" class="black no-underline">PREDNÁŠKY</a> <br>
-              <a href="#" class="black no-underline">DISKUSIE</a>
+              <a href="http://www.kunsthallebratislava.sk/" class="black no-underline">VÝSTAVY</a>   <br>
+              <a href="http://www.kunsthallebratislava.sk/" class="black no-underline">WORKSHOPY</a> <br>
+              <a href="http://www.kunsthallebratislava.sk/" class="black no-underline">PREDNÁŠKY</a> <br>
+              <a href="http://www.kunsthallebratislava.sk/" class="black no-underline">DISKUSIE</a>
             </mj-text>
           </mj-column>
           <mj-column>
