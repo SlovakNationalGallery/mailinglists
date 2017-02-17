@@ -3,7 +3,7 @@
     <mj-attributes>
        <mj-text padding="20px 20px 0 0" font-size="13px" line-height="17px"/>
        <mj-image padding="20px 20px 0 0" />
-       <mj-section border="1px solid gold" padding="0 0 20px 20px" />
+       <mj-section padding="0 0 20px 20px" />
     </mj-attributes>
     <mj-style>
       .blue {
