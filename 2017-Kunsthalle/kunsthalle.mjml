@@ -28,7 +28,7 @@
       <!-- Header -->
       <mj-section>
         <mj-column width="50%">
-          <mj-image align="left" src="./images/logo-khb-428x175.jpg"></mj-image>
+          <mj-image align="left" src="./images/logo-khb-428x175.jpg" alt="Logo KHB" title="Logo KHB"/>
         </mj-column>
         <mj-group width="50%">
           <mj-column>
@@ -40,7 +40,7 @@
             </mj-text>
           </mj-column>
           <mj-column>
-            <mj-image src="./images/img-vstup-278x240.jpg"></mj-image>
+            <mj-image src="./images/img-vstup-278x240.jpg" alt="Banner Right" title="Banner Right"/>
           </mj-column>
         </mj-group>
       </mj-section>
@@ -102,7 +102,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="28%">
-          <mj-image align="left" src="./images/thumb-125x120_01.png"></mj-image>
+          <mj-image align="left" src="./images/thumb-125x120_01.png" alt="Programme Thumbnail" title="Programme Thumbnail"/>
         </mj-column>
         <mj-column width="50%">
           <mj-text font-size="20px" line-height="24px">
@@ -129,7 +129,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="28%">
-          <mj-image align="left" src="./images/thumb-vystava-125x120.png"></mj-image>
+          <mj-image align="left" src="./images/thumb-vystava-125x120.png" alt="Exhibition Thumbnail" title="Exhibition Thumbnail"/>
         </mj-column>
         <mj-column width="50%">
           <mj-text font-size="20px" line-height="20px">
