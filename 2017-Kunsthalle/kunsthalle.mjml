@@ -167,7 +167,8 @@
         </mj-column>
         <mj-column width="40%">
           <mj-text color="#fff" text-decoration="none" font-size="11px" line-height="16px">
-            <span class="blue">Facebook</span> <span class="red">Instagram</span> <br>
+            <span><a class="blue no-underline" href="#">Facebook</a></span> 
+            <span><a class="red no-underline" href="#">Instagram</a></span> <br>
             <a class="no-underline white" href="http://www.kunsthallebratislava.sk/">www.kunsthallebratislava.sk</a>
           </mj-text>
         </mj-column>
