@@ -28,7 +28,7 @@
       <!-- Header -->
       <mj-section>
         <mj-column width="50%">
-          <mj-image align="left" src="./images/logo-khb-428x175.jpg" alt="Logo KHB" title="Logo KHB"/>
+          <mj-image align="left" src="./images/logo-khb-270x110.jpg" alt="Logo KHB" title="Logo KHB"/>
         </mj-column>
         <mj-group width="50%">
           <mj-column>
@@ -40,22 +40,27 @@
             </mj-text>
           </mj-column>
           <mj-column>
-            <mj-image src="./images/img-vstup-278x240.jpg" alt="Banner Right" title="Banner Right"/>
+            <mj-image src="./images/img-vstup-125x108.jpg" alt="Banner Right" title="Banner Right"/>
           </mj-column>
         </mj-group>
       </mj-section>
+      <!-- /Header -->
 
       <!-- Event 1 -->
       <!-- Hero image -->
-      <mj-hero
-        mode="fixed-height"
-        height="210px"
-        width="560px"
-        background-url="./images/img-hero-560x210.png"
-        padding-left="20px"
-        padding-right="20px"
-        >
-      </mj-hero>
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-image 
+            src="./images/img-hero-560x210.png"
+            alt="Event image wide"
+            title="Event image wide"
+            width="560px"
+            height="210px"
+            padding-top="0"
+            padding-right="20px"
+          />
+        </mj-column>
+      </mj-section>
       <mj-section>
         <mj-column width="22%">
           <mj-text font-weight="bold" font-size="31px" line-height="31px">
