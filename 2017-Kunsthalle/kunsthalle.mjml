@@ -44,7 +44,8 @@
           </mj-column>
         </mj-group>
       </mj-section>
-      
+
+      <!-- Event 1 -->
       <!-- Hero image -->
       <mj-hero
         mode="fixed-height"
@@ -55,8 +56,6 @@
         padding-right="20px"
         >
       </mj-hero>
-      
-      <!-- Event 1 -->
       <mj-section>
         <mj-column width="22%">
           <mj-text font-weight="bold" font-size="31px" line-height="31px">
@@ -113,15 +112,15 @@
           </mj-text>
         </mj-column>
       </mj-section>
+      <!-- /Event 2 -->
 
+      <!-- Current Exhibition -->
       <!-- bold black divider -->
       <mj-section text-align="right" padding-bottom="0">
         <mj-column width="100%">
           <mj-divider border-width="2px" padding="20px 20px 0 0" border-style="solid" border-color="black" />
         </mj-column>
       </mj-section>
-
-      <!-- Current Exhibition -->
       <mj-section>
         <mj-column width="22%">
           <mj-text font-weight="bold" padding-bottom="5px">
@@ -142,6 +141,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
+      <!-- /Current Exhibition -->
 
       <!-- Footer -->
       <mj-section border="20px solid white" background-color="#000">
