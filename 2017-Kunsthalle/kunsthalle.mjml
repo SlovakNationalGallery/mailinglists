@@ -59,7 +59,7 @@
       <!-- Event 1 -->
       <mj-section>
         <mj-column width="22%">
-          <mj-text font-weight="bold" font-size="31px">
+          <mj-text font-weight="bold" font-size="31px" line-height="31px">
             16 / 2
           </mj-text>
           <mj-text>
@@ -81,18 +81,18 @@
           </mj-text>
         </mj-column>
       </mj-section>
+      <!-- /Event 1 -->
 
+      <!-- Event 2 -->
       <!-- divider -->
-      <mj-section text-align="right">
+      <mj-section text-align="right" padding-bottom="0">
         <mj-column width="78%">
           <mj-divider border-width="1px" padding="0 20px 0 0" border-style="solid" border-color="black" />
         </mj-column>
       </mj-section>
-
-      <!-- Event 2 -->
       <mj-section>
         <mj-column width="22%">
-          <mj-text font-weight="bold" font-size="31px">
+          <mj-text font-weight="bold" font-size="31px" line-height="31px">
             11 / 1
           </mj-text>
           <mj-text>
