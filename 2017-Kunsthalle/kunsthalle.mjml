@@ -148,7 +148,7 @@
         <mj-column width="30%">
           <mj-text color="#fff" font-size="11px" line-height="16px">
             Kunsthalle Bratislava <br>
-            Nám. SNP 12           <br>
+            Nám. SNP 12           <br>
             811 06 Bratislava
           </mj-text>
         </mj-column>
@@ -157,7 +157,7 @@
             Pon: 12:00 – 19:00 <br>
             Uto: zatvorené     <br>
             Str: 13:00 – 20:00 <br>
-            Štv – Ned: 12:00 – 19:00
+            Štv – Ned: 12:00 – 19:00
           </mj-text>
         </mj-column>
         <mj-column width="40%">
