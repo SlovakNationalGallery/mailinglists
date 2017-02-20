@@ -50,7 +50,7 @@
       </mj-section>
       <!-- /Header -->
 
-      <!-- Event 1 -->
+      <!-- Event Featured -->
       <!-- Hero image -->
       <mj-section padding-bottom="0">
         <mj-column>
@@ -89,9 +89,9 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      <!-- /Event 1 -->
+      <!-- /Event Featured -->
 
-      <!-- Event 2 -->
+      <!-- Event Regular -->
       <!-- divider -->
       <mj-section text-align="right" padding-bottom="0">
         <mj-column width="78%">
@@ -121,7 +121,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      <!-- /Event 2 -->
+      <!-- /Event Regular -->
 
       <!-- Current Exhibition -->
       <!-- bold black divider -->
