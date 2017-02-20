@@ -169,7 +169,7 @@
             Štv – Ned: 12:00 – 19:00
           </mj-text>
         </mj-column>
-        <mj-column width="40%">
+        <mj-column width="40%" vertical-align="bottom">
           <mj-text color="#fff" text-decoration="none" font-size="11px" line-height="16px">
             <span><a class="blue no-underline" href="#">Facebook</a></span> 
             <span><a class="red no-underline" href="#">Instagram</a></span> <br>
