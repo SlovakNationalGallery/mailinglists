@@ -59,7 +59,7 @@
             alt="Event image wide"
             title="Event image wide"
             width="560px"
-            height="210px"
+            height="auto"
             padding-top="0"
             padding-right="20px"
           />
