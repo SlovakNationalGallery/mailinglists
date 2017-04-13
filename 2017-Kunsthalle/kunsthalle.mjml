@@ -152,6 +152,54 @@
       </mj-section>
       <!-- /Current Exhibition -->
 
+      <!-- bold black divider -->
+      <mj-section text-align="right" padding-bottom="20px">
+        <mj-column width="100%">
+          <mj-divider border-width="2px" padding="20px 20px 0 0" border-style="solid" border-color="black" />
+        </mj-column>
+      </mj-section>
+      
+      <!-- Event Featured 2 -->
+      <!-- Hero image -->
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-image 
+            src="./images/img-hero-560x210.png"
+            alt="Event image wide"
+            title="Event image wide"
+            width="560px"
+            height="auto"
+            padding-top="0"
+            padding-right="20px"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="22%">
+          <mj-text font-weight="bold" font-size="31px" line-height="31px">
+            16 / 2
+          </mj-text>
+          <mj-text>
+            ŠTVRTOK <br>
+            18:00 – 20:00 <br>
+            KUNSTHALLE LAB <br>
+            vernisáž
+          </mj-text>
+        </mj-column>
+        <mj-column width="78%">
+          <mj-text font-size="24px" line-height="27px">
+            VERNISÁŽ VÝSTAVY <br>
+            INTO THE MU
+          </mj-text>
+          <mj-text>
+            Nathan Baker (USA), Myriam El Haïk (FR/MA), Ciarán Walsh (IR), Dušan Zahoransky (CZ) <br>
+            Kurátorka: Elisa Rusca (IT) <br>
+            how can one represent emptiness within the tree- dimensional exhibition’s space? And also: if in a room there is nothing I can see or touch, does that really mean that that space is empty? <a href="#" class="black">Viac info</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- /Event Featured -->
+
       <!-- Footer -->
       <mj-section border="20px solid white" background-color="#000">
         <mj-column width="30%">
